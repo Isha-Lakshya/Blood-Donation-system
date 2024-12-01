@@ -21,7 +21,7 @@ const HomePage: React.FC = () => {
           <CardHeader>
             <CardTitle className="text-3xl font-bold mb-8">
               Connecting Patients with Local <br />
-              <span className="text-primary">Blood</span> Donors
+              <span className="text-primary">Blood</span> Donor
             </CardTitle>
             <CardDescription>
               Join our mission to make a difference. Every drop of blood counts,
